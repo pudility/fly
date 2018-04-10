@@ -172,4 +172,4 @@ Fly has 15 data centers in:
 - Sao Paulo, Brazil (soon)
 - Johannesburg, South Africa (soon)
 
-![img](https://media.giphy.com/media/k8crD6isrjtEaj0jwF/giphy.gif)
+[![img](https://media.giphy.com/media/k8crD6isrjtEaj0jwF/giphy.gif)](https://github.com/pudility/fly/tree/Demos/apps/fly-fleet)
