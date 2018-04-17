@@ -11,6 +11,8 @@ addons:
 before_install:
 - set -e
 install:
+- rm -rf node_modules
+- npm cache clean
 - export CXX="g++-5"
 - npm install
 - npm run build
