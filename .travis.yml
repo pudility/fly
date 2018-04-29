@@ -10,7 +10,7 @@ addons:
     - g++-5
 before_install:
 - set -e
-- sudo apt-get install ttf-mscorefonts-installer
+- sudo apt-get install ttf-mscorefonts-installer -y
 install:
 - rm -rf node_modules
 - export CXX="g++-5"
